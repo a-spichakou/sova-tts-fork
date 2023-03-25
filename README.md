@@ -5,6 +5,6 @@ SOVA TTS is a speech syntthesis solution based on [Tacotron 2](https://arxiv.org
 ## Installation fork
 
 * aspichakou/sova-tts-aio-gpu - GPU Ruslan only 
-* aspichakou/sova-tts-aio - CPU Ruslan voice only
+* aspichakou/sova-tts-aio - CPU Ruslan, Natasha voices
 
 
